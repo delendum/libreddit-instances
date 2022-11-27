@@ -50,7 +50,7 @@
 |https://reddit.stetsed.xyz|WWW|v0.24.1|🇳🇱 NL|||
 |https://lr.artemislena.eu|WWW|v0.24.1|🇩🇪 DE|||
 |https://discuss.whatever.social|WWW|v0.24.1|🇺🇸 US||uses CDN|
-|https://libreddit.pufe.org|WWW|v0.24.0|🇳🇿 NZ|||
+|https://libreddit.pufe.org|WWW|v0.24.1|🇳🇿 NZ|||
 |https://libreddit.marcopisco.com|WWW|v0.24.0|🇵🇹 PT|✅||
 |https://lr.aeong.one|WWW|v0.23.2|🇰🇷 KR|✅||
 |http://ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion|Tor|v0.22.9|🇺🇸 US|||
