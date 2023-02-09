@@ -43,7 +43,7 @@
 |https://lr.odyssey346.dev|WWW|v0.25.0|🇫🇷 FR|||
 |https://lr.artemislena.eu|WWW|v0.25.0|🇩🇪 DE|||
 |https://discuss.whatever.social|WWW|v0.25.0|🇺🇸 US||uses CDN|
-|https://libreddit.pufe.org|WWW|v0.28.1|🇳🇿 NZ|||
+|https://libreddit.pufe.org|WWW|v0.29.0|🇳🇿 NZ|||
 |https://lr.aeong.one|WWW|v0.25.0|🇰🇷 KR|✅||
 |https://reddit.smnz.de|WWW|v0.28.1|🇩🇪 DE|||
 |https://libreddit.bus-hit.me|WWW|v0.25.0|🇨🇦 CA|||
